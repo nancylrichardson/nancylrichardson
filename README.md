@@ -35,6 +35,10 @@ CFI Corporate Finance Foundations • Project Management Foundations (PMI) • M
 - Building a lightweight knowledge base for customer workflows (SOPs, checklists, and templates).  
 - Sample datasets to demonstrate audit‑ready billing and data‑cleanup routines in spreadsheets.
 
+### 📂 Repository Contents
+- **checklists/** — Workflow checklists for billing and intake processes
+- **templates/** — Email templates for customer communication
+
 ### 🤝 Let’s Connect
 - Email: **richgang2005@gmail.com**
 - LinkedIn: **/in/nancylrichardson**
