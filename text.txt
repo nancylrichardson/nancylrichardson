@@ -1,0 +1,10 @@
+Subject: We received your request — Ref {{REF}}
+
+Hi {{Name}},
+
+Thanks for sending {{request type}}. I’ve logged it under **{{REF}}**.  
+**What happens next:** I’ll validate attachments, confirm coding/tax applicability, and share any gaps.  
+**Target:** {{SLA date}}.
+
+Best,  
+Nancy
