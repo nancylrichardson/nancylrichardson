@@ -39,6 +39,15 @@ CFI Corporate Finance Foundations • Project Management Foundations (PMI) • M
 - **checklists/** — Workflow checklists for billing and intake processes
 - **templates/** — Email templates for customer communication
 
+
+### 📄 Portfolio Documents
+**Teaching & Curriculum Writing Samples** — Click to download and view:
+- **[Nancy_Richardson_Portfolio_Part1_UnitFramework.docx](Nancy_Richardson_Portfolio_Part1_UnitFramework.docx)** — Unit framework and lesson planning sample
+- **[Nancy_Richardson_Portfolio_Part2_InstructionalArtifacts.docx](Nancy_Richardson_Portfolio_Part2_InstructionalArtifacts.docx)** — Instructional materials and artifacts
+- **[Nancy Customer Experience Assoc Resume.pdf](Nancy%20Customer%20Experience%20Assoc%20Resume.pdf)** — Professional resume
+
+*Note: .docx files can be viewed in Microsoft Word, Google Docs, LibreOffice, or any compatible word processor. To view on GitHub, click the file name above and then click the "Download" button.*
+
 ### 🤝 Let’s Connect
 - Email: **richgang2005@gmail.com**
 - LinkedIn: **/in/nancylrichardson**
