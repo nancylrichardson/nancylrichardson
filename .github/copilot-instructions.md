@@ -12,9 +12,9 @@ This is a personal portfolio repository showcasing Nancy Richardson's profession
 ## Repository Purpose
 
 This repository serves as:
-1. A professional portfolio and knowledge base for customer workflows
-2. A collection of reusable templates and checklists for billing operations and customer experience
-3. A demonstration of process discipline and documentation best practices
+- A professional portfolio and knowledge base for customer workflows
+- A collection of reusable templates and checklists for billing operations and customer experience
+- A demonstration of process discipline and documentation best practices
 
 ## Content Guidelines
 
@@ -124,7 +124,7 @@ When making changes, consider:
 ## Do Not
 
 - Add code or programming files (this is a documentation-only repository)
-- Modify or remove existing professional documents (resume, portfolio PDFs/DOCX)
+- Modify or remove existing professional documents (resume, portfolio PDF/DOCX)
 - Change the overall structure without good reason
 - Use informal or casual language
 - Add unnecessary complexity to simple workflows
