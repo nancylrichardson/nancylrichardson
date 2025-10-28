@@ -41,7 +41,7 @@ CFI Corporate Finance Foundations • Project Management Foundations (PMI) • M
 
 
 ### 📄 Portfolio Documents
-**Teaching & Curriculum Writing Samples** — Click to download and view:
+**Professional Portfolio & Work Samples** — Click to download and view:
 - **[Nancy_Richardson_Portfolio_Part1_UnitFramework.docx](Nancy_Richardson_Portfolio_Part1_UnitFramework.docx)** — Unit framework and lesson planning sample
 - **[Nancy_Richardson_Portfolio_Part2_InstructionalArtifacts.docx](Nancy_Richardson_Portfolio_Part2_InstructionalArtifacts.docx)** — Instructional materials and artifacts
 - **[Nancy Customer Experience Assoc Resume.pdf](Nancy%20Customer%20Experience%20Assoc%20Resume.pdf)** — Professional resume
