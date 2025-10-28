@@ -34,10 +34,13 @@ CFI Corporate Finance Foundations • Project Management Foundations (PMI) • M
 ### 📌 What I’m Working On
 - Building a lightweight knowledge base for customer workflows (SOPs, checklists, and templates).  
 - Sample datasets to demonstrate audit‑ready billing and data‑cleanup routines in spreadsheets.
+- Curriculum writing portfolio samples demonstrating instructional design for K-12 literacy education.
 
 ### 📂 Repository Contents
 - **checklists/** — Workflow checklists for billing and intake processes
 - **templates/** — Email templates for customer communication
+- **Nancy_Richardson_Portfolio_Part1_UnitFramework.docx** — Curriculum Writer Portfolio: Theme & Summary Through Fables (5-day unit aligned to HISD NES Framework and TEKS)
+- **Nancy_Richardson_Portfolio_Part2_InstructionalArtifacts.docx** — Supporting instructional artifacts and materials
 
 ### 🤝 Let’s Connect
 - Email: **richgang2005@gmail.com**
